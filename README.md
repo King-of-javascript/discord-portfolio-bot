@@ -22,7 +22,7 @@ A professional, asynchronous Discord bot built to showcase API integration and s
 - **Global Availability:** Hosted in the **Singapore** region for optimized latency in Southeast Asia.
 - 
 ## ⚙️ Setup & Installation
-1. Clone the repository: `git clone https://github.com/YOUR_USERNAME/discord-portfolio-bot.git`
+1. Clone the repository: `git clone https://github.com/King-of-javascript/discord-portfolio-bot.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Create a `.env` file and add your `DISCORD_TOKEN`.
 4. Run the bot: `python main.py`
